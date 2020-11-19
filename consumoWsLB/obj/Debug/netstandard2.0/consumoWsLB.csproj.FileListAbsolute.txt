@@ -1,0 +1,15 @@
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\bin\Debug\netstandard2.0\consumoWsLB.deps.json
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\bin\Debug\netstandard2.0\consumoWsLB.dll
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.csprojAssemblyReference.cache
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.AssemblyInfoInputs.cache
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.AssemblyInfo.cs
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\bin\Debug\netstandard2.0\ref\consumoWsLB.dll
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\bin\Debug\netstandard2.0\consumoWsLB.pdb
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.csproj.CoreCompileInputs.cache
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.dll
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\ref\consumoWsLB.dll
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\consumoWsLB.pdb
+C:\Users\luisi\Documents\xamarin9NO\consumoWsLB\consumoWsLB\obj\Debug\netstandard2.0\Detalle.xaml.g.cs
